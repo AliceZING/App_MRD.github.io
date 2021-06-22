@@ -100,32 +100,65 @@
 
 本次调研针对用户购买明星周边的情况进行调研，共收集了135份有效数据，其中男性占23.7%，女性占76.3%。对结果的分析如下：
 
+
 1.  你追星吗?追的话有多少个明星是你会去买其相关商品的（如周边、专辑等）?
+
+
 ![市场调研1](https://gitee.com/zheng_wan_jun/app_final/raw/master/images/%E5%B8%82%E5%9C%BA%E8%B0%83%E7%A0%941.png)
-不追星的人占了29.63%，追星的人占了70.37%，
+
+
+不追星的人占了29.63%，追星的人占了70.37%
+
+
 且追星的用户大部分追1-2个，占了45.19。
 
+
 2. 每月用于购买明星周边的费用？
+
+
 ![市场调研2](https://gitee.com/zheng_wan_jun/app_final/raw/master/images/%E5%B8%82%E5%9C%BA%E8%B0%83%E7%A0%942.png)
+
+
 根据统计结果得出，受调查的用户中，
 近90%的用户每月用于购买明星周边的费用在500元以下
 只有极少数用户购买明星周边花费500元以上。
 
+
 3. 你购买周边的钱主要来自于？
+
+
 ![市场调研3](https://gitee.com/zheng_wan_jun/app_final/raw/master/images/%E5%B8%82%E5%9C%BA%E8%B0%83%E7%A0%943.png)
+
+
 接近一半的用户选择用自己攒下的零花钱去购买周边，其次是通过工作或兼职等渠道赚来的钱。
 
+
 4. 你购买周边的渠道是？
+
+
 ![市场调研4](https://gitee.com/zheng_wan_jun/app_final/raw/master/images/%E5%B8%82%E5%9C%BA%E8%B0%83%E7%A0%944.png)
+
+
 国内直接购买周边现货以及寻找代购购买周边产品的用户最多，自己直接上官网海淘的用户较少，也有一部分用户会选择购买二手的周边。
 
+
 5. 你使用过哪些app来购买周边？
+
+
 ![市场调研5](https://gitee.com/zheng_wan_jun/app_final/raw/master/images/%E5%B8%82%E5%9C%BA%E8%B0%83%E7%A0%945.jpg)
+
+
 在追星的app的使用选择上，闲鱼和owhat的比例较大，在业内比较受欢迎；从其他一项的比例最大中可见市场对此类APP的需求比较大，有可观的投入和发展空间。
 
+
 6. 假如你的父母不支持你追星，你会？
+
+
 ![市场调研6](https://gitee.com/zheng_wan_jun/app_final/raw/master/images/%E5%B8%82%E5%9C%BA%E8%B0%83%E7%A0%946.jpg)
+
+
 当年轻人的追星行为或观念受到身边亲朋好友的质疑甚至反对时，他们大多会选择坚持自己的选择追自己的星让别人说去，也有少数年轻人愿意说服身边的人希望得到他们的支持和肯定。这反映了年轻人追星个性化的趋势和偶像周边市场的稳定性。
+
 
 **根据本次用户调查结果显示，多数的用户有追星的习惯，且许多用户会花一定的金钱去购买自己喜欢的明星的周边，这体现了周边app的广阔市场。此外，市面上的周边售卖app功能繁杂，专门针对周边产品的售卖及二次销售的app相对较少，故这款周边app具有相对较大的市场潜力。**
 
@@ -163,3 +196,11 @@
 ![Owhat产品简介](https://gitee.com/huang_jun_hao/dada/raw/master/owaht%20jiaje9.jpg)
 ##### 5.1.3 竞品优劣势
 ![Owhat竞品优劣势](https://gitee.com/huang_jun_hao/dada/raw/master/owaht%20ylesa5.jpg)
+
+#### 5.2 闲鱼
+##### 5.2.1 架构图
+![闲鱼架构图](https://gitee.com/zheng_wan_jun/app_final/raw/master/images/%E9%97%B2%E9%B1%BC%E6%9E%B6%E6%9E%84%E5%9B%BE.png)
+##### 5.2.2 产品简介
+![闲鱼产品简介](https://gitee.com/zheng_wan_jun/app_final/raw/master/images/%E9%97%B2%E9%B1%BC%E4%BA%A7%E5%93%81%E7%AE%80%E4%BB%8B.png)
+##### 5.2.3 竞品优劣势
+![闲鱼竞品优劣势](https://gitee.com/zheng_wan_jun/app_final/raw/master/images/%E9%97%B2%E9%B1%BC%E7%AB%9E%E5%93%81%E4%BC%98%E5%8A%A3%E5%8A%BF.png)
